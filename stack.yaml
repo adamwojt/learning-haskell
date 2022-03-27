@@ -1,0 +1,6 @@
+resolver:
+  compiler: ghc-9.0.1
+packages:
+- .
+extra-deps:
+- data-ordlist-0.4.7.0
